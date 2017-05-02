@@ -17,6 +17,7 @@
   "homepage": "https://github.com/jcmestti/Rest-API#readme",
   "dependencies": {
     "babel": "^6.23.0",
+    "consign": "^0.1.4",
     "express": "^4.15.2"
   },
   "devDependencies": {

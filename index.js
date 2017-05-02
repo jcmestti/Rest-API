@@ -8,3 +8,6 @@ consign()
     .then("routes")
     .then("libs/boot.js")
     .into(app);
+
+console.log("/n");
+console.log(app);    
